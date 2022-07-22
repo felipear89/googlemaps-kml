@@ -6,7 +6,7 @@ from polycircles import polycircles
 import googlemaps
 
 FILE_PATH = 'enderecos.csv'
-GOOGLE_MAPS_API_TOKEN = 'AIzaSyD7pgtiBTMfeT6co1xV8YR8QUiaxKcfS4I'
+GOOGLE_MAPS_API_TOKEN = ''
 
 
 def readfile(path):
